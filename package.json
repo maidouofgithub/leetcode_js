@@ -1,0 +1,24 @@
+{
+  "name": "leetcode_js",
+  "version": "1.0.0",
+  "description": "leetcode_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maidouofgithub/leetcode_js.git"
+  },
+  "keywords": [
+    "leetcode",
+    "js",
+    "sln"
+  ],
+  "author": "landwind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maidouofgithub/leetcode_js/issues"
+  },
+  "homepage": "https://github.com/maidouofgithub/leetcode_js#readme"
+}
